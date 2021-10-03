@@ -25,7 +25,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eryilmazyasin)](https://github.com/eryilmazyasin/github-readme-stats)
--
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eryilmazyasin&layout=compact)](https://github.com/eryilmazyasin/github-readme-stats)
 
 
