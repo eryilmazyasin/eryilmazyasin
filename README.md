@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasin</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🌱 I’m currently learning **Modern UI Frameworks like React**
+- 🌱 I’m currently using **Modern UI Frameworks like React.js and Next.js**
 
 - 👨‍💻 All of my projects are available at [https://yasineryilmaz.netlify.app/](https://yasineryilmaz.netlify.app/)
 
