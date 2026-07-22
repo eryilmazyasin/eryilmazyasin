@@ -62,10 +62,10 @@
 
 <p align="center">
   <a href="https://github.com/eryilmazyasin">
-    <img src="https://github-readme-stats.vercel.app/api?username=eryilmazyasin&show_icons=true&theme=radical" alt="Yasin's GitHub stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eryilmazyasin&show_icons=true&theme=radical" alt="Yasin's GitHub stats" />
   </a>
   <a href="https://github.com/eryilmazyasin">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eryilmazyasin&layout=compact&theme=radical" alt="Top Langs" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eryilmazyasin&layout=compact&theme=radical" alt="Top Langs" />
   </a>
 </p>
 
