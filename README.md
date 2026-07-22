@@ -60,7 +60,7 @@
 
 ### 📊 GitHub Stats & Open Source
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/eryilmazyasin">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eryilmazyasin&show_icons=true&theme=radical" alt="Yasin's GitHub stats" />
   </a>
