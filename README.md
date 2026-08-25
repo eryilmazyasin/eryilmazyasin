@@ -9,7 +9,7 @@
 
 ### 🚀 Quick Overview
 
-- 👨‍💻 All of my projects are available at [yasineryilmaz.netlify.app](https://yasineryilmaz.netlify.app/)
+- 👨‍💻 All of my projects are available at [yasineryilmaz.com](https://yasineryilmaz.com/)
 - 🌱 Currently deep-diving into performance-driven web interfaces, state management architectures, and full-stack system integrations.
 - 💼 Know about my professional experiences on [LinkedIn](https://www.linkedin.com/in/eryilmazyasin/)
 - 📫 How to reach me: **yasineryilmazfb@gmail.com**
