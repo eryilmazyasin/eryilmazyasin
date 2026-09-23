@@ -61,12 +61,8 @@
 ### 📊 GitHub Stats & Open Source
 
 <p align="left">
-  <a href="https://github.com/eryilmazyasin">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eryilmazyasin&show_icons=true&theme=radical" alt="Yasin's GitHub stats" />
-  </a>
-  <a href="https://github.com/eryilmazyasin">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eryilmazyasin&layout=compact&theme=radical" alt="Top Langs" />
-  </a>
+  <img src="./profile-summary-card-output/radical/3-stats.svg" alt="Yasin's GitHub stats" width="49%" />
+  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most commit language" width="49%" />
 </p>
 
 ---
